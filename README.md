@@ -5,7 +5,7 @@ Welcome to my GitHub repository! Here you'll find a collection of projects showc
 ## Projects:
 
 ### 1. Big Data Analysis:
-- **Mission: Automatisation de l'automatisation**
+- **Mission: Automation**
   - This project aimed to automate the process of machine learning model training and evaluation. It takes a clean DataFrame as input, performs train-test split, and allows the user to choose from various algorithms for regression, classification, or clustering tasks.
   - Technologies/languages used: Python, scikit-learn, pandas
   - Insights: Enabled efficient comparison of different machine learning algorithms on a given dataset.
@@ -28,7 +28,7 @@ Welcome to my GitHub repository! Here you'll find a collection of projects showc
 - **Programming Languages**: Python, SQL
 - **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn
 - **Tools**: Git, Jupyter Notebook
-- **Other**: Conception and Modélisation (Autocad, BIM), G Suite/Microsoft Office Suite, Meticulous attention to detail
+- **Other**: G Suite/Microsoft 365, meticulous attention to detail, rigorous, creative, self-contained
 
 ## How to Reach Me:
 
