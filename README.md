@@ -1,9 +1,71 @@
-👋 Hi, I’m GautBlrn
+# 👋 Hi, I'm Gautier Blairon
 
-👀 I’m interested in big data analysis, machine learning, and leveraging technology to drive innovation in the industry.
+🎓 Master’s student in Artificial Intelligence  
+📍 Machine Learning / Recommendation Systems / Data Engineering  
+🌐 Personal website: https://gt-sec.com  
+💡 Background in engineering, data analysis, and applied AI
 
-🌱 I’m currently learning advanced machine learning techniques and deepening my understanding of big data processing and interpretation.
+---
 
-💞️ I’m looking to collaborate on projects related to big data analytics, machine learning applications, or technology-driven solutions.
+## 🚀 About me
 
-📫 How to reach me: You can reach me via email at [gautier.blairon17@gmail.com](mailto:gautier.blairon17@gmail.com) or connect with me on LinkedIn [Gautier Blairon](https://www.linkedin.com/in/gautier-blairon-bb659016b/).
+I’m an AI master’s student focused on **building practical machine learning systems**, from **data processing** to **modeling** and **infrastructure**.  
+I’m particularly interested in **recommendation systems** and **end-to-end ML pipelines**, with an emphasis on clean, reproducible, and scalable solutions.
+
+My previous experience as a **data analyst**, **AI & data consultant**, and in **engineering roles** gives me a strong, pragmatic approach to problem-solving and system design.
+
+---
+
+## 🧠 Areas of interest
+
+- Machine Learning & Deep Learning  
+- Recommendation Systems  
+- Data Engineering & Big Data  
+- MLOps & ML Infrastructure  
+- Applied AI for decision-making
+
+---
+
+## 🛠️ Tech stack (main)
+
+- **Languages**: Python, SQL  
+- **ML / Data**: NumPy, Pandas, scikit-learn, PyTorch  
+- **Data & Infra**: Docker, Git, Linux, NoSQL databases  
+- **Tools**: Google Colab, Jupyter, GitHub
+
+---
+
+## 📌 Featured projects
+
+🔹 **Movie Recommendation System**  
+End-to-end recommendation pipeline covering data preprocessing, feature engineering, model training, and evaluation.
+
+🔹 **Data / ML Infrastructure Project**  
+Design and implementation of a data and ML infrastructure focused on reproducibility, scalability, and experimentation.
+
+➡️ See pinned repositories below ⬇️
+
+---
+
+## 🌱 Currently
+
+- Deepening my knowledge in **advanced machine learning and recommender systems**
+- Building **clean, well-documented, production-oriented projects**
+- Learning best practices around **ML pipelines, infrastructure, and deployment**
+
+---
+
+## 🤝 Collaboration
+
+I’m open to collaborating on:
+- Machine learning or data projects  
+- Recommendation systems  
+- Data engineering or ML infrastructure experiments  
+
+---
+
+## 📫 Contact
+
+- 🌐 Website: https://gt-sec.com  
+- 📧 Email: [gautier.blairon17@gmail.com](mailto:gautier.blairon17@gmail.com)  
+- 💼 LinkedIn: [Gautier Blairon](https://www.linkedin.com/in/gautier-blairon-bb659016b/)
