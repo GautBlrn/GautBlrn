@@ -28,10 +28,10 @@ My previous experience as a **data analyst**, **AI & data consultant**, and in *
 
 ## 🛠️ Tech stack (main)
 
-- **Languages**: Python, SQL  
+- **Languages**: Python, SQL, Bash
 - **ML / Data**: NumPy, Pandas, scikit-learn, PyTorch  
 - **Data & Infra**: Docker, Git, Linux, NoSQL databases  
-- **Tools**: Google Colab, Jupyter, GitHub
+- **Tools**: Google Colab, Jupyter, GitHub, Power BI
 
 ---
 
